@@ -1,1 +1,8 @@
 Aqui vai o readme
+===TODO
+
+Nota quem utilizar BrData poderá ter problema com data dos emails
+
+Corrigir o bug #25 https://github.com/tapajos/brazilian-rails/issues/25 que foi reportado por mim no dia 26 de setembro ao
+tapajós.
+Pelo visto o repostório dele está parado.
